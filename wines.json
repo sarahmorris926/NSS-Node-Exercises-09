@@ -1,0 +1,8 @@
+{
+    "wines": {
+        "Cabernet Sauvignon": "Full-bodied, low medium tannins, bold, dark fruits, heavily planted in the Bordeax region but widely popular around the world.",
+        "Syrah": "Also known as Shiraz if grown in Australia, full-bodied, medium tannins, commonly blended with Grenache and Mourvèdre to create the red Rhône blend.",
+        "Zinfandel": "Medium-bodied to full-bodied, semi spicy finish, fruit-forward with an exotic array of fruits, low acid, honestly kind of boring most of the time.",
+        "Pinot Noir": "Lots of red fruits, light-bodied, high acid but low tannins, widely available all around France."
+    }
+}
